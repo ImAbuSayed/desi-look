@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/desi-look/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Desi Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desi-look/) |
+| **Get License** | [Music Rights & Licensing for Desi Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desi-look/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9c0b404bda040b2fe56ffb6dc4b24d8dfbbe7544a8d7470231bdc17d48d213f2` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

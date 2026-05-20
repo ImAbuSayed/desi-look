@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Desi Look
+
+This log tracks the cryptographic history and versioning for the song **Desi Look** (desi-look).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T22:45:56.645370 | `v1` | `9c0b404bda040b2fe56ffb6dc4b24d8dfbbe7544a8d7470231bdc17d48d213f2` | `01fac9d6db48cb386a39985af6793928c519f443e87e382cf3634fda6a01510b` | `2026-05-20_desi-look-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
